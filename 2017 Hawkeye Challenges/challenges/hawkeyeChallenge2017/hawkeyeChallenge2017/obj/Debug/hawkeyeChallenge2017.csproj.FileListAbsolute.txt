@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.pdb
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.exe.config
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.exe
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.pdb
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\obj\Debug\hawkeyeChallenge2017.csprojResolveAssemblyReference.cache
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.exe
+C:\Users\db138992\Desktop\challenges\hawkeyeChallenge2017\hawkeyeChallenge2017\bin\Debug\hawkeyeChallenge2017.pdb
