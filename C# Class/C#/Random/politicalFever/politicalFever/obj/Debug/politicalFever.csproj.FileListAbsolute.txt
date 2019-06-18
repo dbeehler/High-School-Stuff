@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\bin\Debug\politicalFever.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\bin\Debug\politicalFever.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\bin\Debug\politicalFever.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.Form1.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.Properties.Resources.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.csproj.GenerateResource.Cache
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\politicalFever\obj\Debug\politicalFever.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\politicalFever\politicalFever\bin\Debug\politicalFever.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\politicalFever\politicalFever\obj\Debug\politicalFever.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\politicalFever\politicalFever\obj\Debug\politicalFever.pdb

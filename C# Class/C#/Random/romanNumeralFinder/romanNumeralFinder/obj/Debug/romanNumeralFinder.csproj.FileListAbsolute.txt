@@ -1,0 +1,10 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\romanNumeralFinder\bin\Debug\romanNumeralFinder.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\bin\Debug\romanNumeralFinder.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\bin\Debug\romanNumeralFinder.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\bin\Debug\romanNumeralFinder.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.csprojResolveAssemblyReference.cache
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.Properties.Resources.resources
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.csproj.GenerateResource.Cache
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\romanNumeralFinder\romanNumeralFinder\obj\Debug\romanNumeralFinder.mainMenu.resources

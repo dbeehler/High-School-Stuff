@@ -1,0 +1,9 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\bin\Debug\arrayStuff.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\obj\Debug\arrayStuff.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\bin\Debug\arrayStuff.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\bin\Debug\arrayStuff.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\obj\Debug\arrayStuff.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\arrayStuff\obj\Debug\arrayStuff.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 6\arrayStuff\arrayStuff\bin\Debug\arrayStuff.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 6\arrayStuff\arrayStuff\obj\Debug\arrayStuff.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 6\arrayStuff\arrayStuff\obj\Debug\arrayStuff.pdb

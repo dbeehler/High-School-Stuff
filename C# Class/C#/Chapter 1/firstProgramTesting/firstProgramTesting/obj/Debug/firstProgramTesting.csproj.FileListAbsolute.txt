@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\bin\Debug\firstProgramTesting.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.Form1.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.Properties.Resources.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.csproj.GenerateResource.Cache
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\bin\Debug\firstProgramTesting.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\bin\Debug\firstProgramTesting.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\firstProgramTesting\obj\Debug\firstProgramTesting.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\firstProgramTesting\firstProgramTesting\bin\Debug\firstProgramTesting.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\firstProgramTesting\firstProgramTesting\obj\Debug\firstProgramTesting.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\firstProgramTesting\firstProgramTesting\obj\Debug\firstProgramTesting.pdb

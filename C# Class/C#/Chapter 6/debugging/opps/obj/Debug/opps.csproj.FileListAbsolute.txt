@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\bin\Debug\opps.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\bin\Debug\opps.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\bin\Debug\opps.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\obj\Debug\opps.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\obj\Debug\opps.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\opps\obj\Debug\opps.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\bin\Debug\opps.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\obj\Debug\opps.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\obj\Debug\opps.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\bin\Debug\opps.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\bin\Debug\opps.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\opps\opps\obj\Debug\opps.csprojResolveAssemblyReference.cache

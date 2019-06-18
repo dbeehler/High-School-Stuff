@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\bin\Debug\rockPaperScissor.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\bin\Debug\rockPaperScissor.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\bin\Debug\rockPaperScissor.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\obj\Debug\rockPaperScissor.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\obj\Debug\rockPaperScissor.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\rockPaperScissor\obj\Debug\rockPaperScissor.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\bin\Debug\rockPaperScissor.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\obj\Debug\rockPaperScissor.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\obj\Debug\rockPaperScissor.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\bin\Debug\rockPaperScissor.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\bin\Debug\rockPaperScissor.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Chapter 1\rockPaperScissor\rockPaperScissor\obj\Debug\rockPaperScissor.csprojResolveAssemblyReference.cache

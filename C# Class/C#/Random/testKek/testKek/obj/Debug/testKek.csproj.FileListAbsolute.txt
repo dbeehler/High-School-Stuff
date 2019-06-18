@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\bin\Debug\testKek.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\bin\Debug\testKek.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\bin\Debug\testKek.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.Form1.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.Properties.Resources.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.csproj.GenerateResource.Cache
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\testKek\obj\Debug\testKek.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\testKek\testKek\bin\Debug\testKek.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\testKek\testKek\obj\Debug\testKek.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\testKek\testKek\obj\Debug\testKek.pdb

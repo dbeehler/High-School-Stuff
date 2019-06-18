@@ -1,0 +1,12 @@
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\bin\Debug\accumulator.exe.config
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\bin\Debug\accumulator.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\bin\Debug\accumulator.pdb
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.csprojResolveAssemblyReference.cache
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.Form1.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.Properties.Resources.resources
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.csproj.GenerateResource.Cache
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.exe
+C:\Users\db138992\AppData\Local\Temporary Projects\accumulator\obj\Debug\accumulator.pdb
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\accumulator\accumulator\bin\Debug\accumulator.exe.config
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\accumulator\accumulator\obj\Debug\accumulator.exe
+C:\Users\db138992\Desktop\Git repositories\CDullClass\Random\accumulator\accumulator\obj\Debug\accumulator.pdb
