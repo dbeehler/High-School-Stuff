@@ -1,0 +1,156 @@
+Division 2 (Non-AP)
+PROBLEM . 1. Roman Numeral Translator
+Your program should accept a number expressed using slightly modified Roman numerals as input and output 
+ number as a decimal number. All numbers will be between 1 and 50.
+ 
+Because real Roman numerals have so many small and complicated rules, we’ll be using a slightly modified form of Roman numerals – no subtraction.
+Here are the rules your program should use to read in the Roman numerals:
+
+I=1, V=5, X=10, L=50
+Repeated numerals are added (XX=20, III=3, XXXXVI=46)
+Only I and X can be repeated
+Each numeral will be less than or equal to the previous one (XVI=16 and is legal, XIV is not legal for this problem .)
+ 
+Examples:
+Input: VIIII
+Output: 9
+ 
+Input: L
+Output: 50
+ 
+Input: XVI
+Output: 16
+ 
+ 
+ 
+ 
+ 
+Division 2 (Non-AP)
+PROBLEM . 2. Political Fever – Delegate Frenzy
+ 
+Your program should take in three inputs: The number of delegates, the percentage of votes Candidate 1 got, and the 
+percentage of votes Candidate 2 got. Together with Candidate 3’s percentage (not given), all percentages should sum to 100. 
+Using the Missituckychusets delegate rules described below, tell us how many delegates each candidate will be awarded.
+Note: Each candidate will always receive a whole number of delegates – no rounding should be necessary.
+ 
+Missituckychusets delegate rules:
+If a candidate receives less than 15% of the total votes, they receive zero delegates and are considered non-viable.
+If a candidate receives more than 50% of the total votes, they receive all of the delegates.
+If a candidate receives between 15% and 50% (inclusive on both), they receive that percentage of all available delegates.
+If a candidate is non-viable, their votes are split evenly among the other two candidates.
+ 
+Examples:
+Input: 10 .3 .3
+Output:
+Candidate 1: 3
+Candidate 2: 3
+Candidate 3: 4
+Explanation: There are 10 delegates, Candidate 1 got 30%, and Candidate 2 got 30%, (which means Candidate 3 got 40%). 
+Since there was no majority, each candidate receives their percentage of the 10 total delegates. (Rule 3)
+ 
+Input: 40 .5 .4
+Output:
+Candidate 1: 22
+Candidate 2: 18
+Candidate 3: 0
+Explanation: No candidate had a majority, so the delegates will be assigned proportionally. 
+However, Candidate 3 was non-viable with 10%, so Candidates 1 and 2 each get an extra 5%. Delegates are then assigned proportionally to 
+Candidates 1 and 2. 55% of 40 is 22, and 45% of 40 is 18. (Rules 1, 3, 4)
+ 
+Input: 10 .75 .25
+Output:
+Candidate 1: 10
+Candidate 2: 0
+Candidate 3: 0
+Explanation: Since Candidate 1 received more than 50% of the votes, they received all of the delegates.
+ 
+ 
+ 
+ 
+ 
+Division 2 (Non-AP)
+PROBLEM . 3. March Angry Frustrations (Please don’t sue us)
+ 
+This year, one of the things that made people mad in March were the changes to the way buskerball game winners were decided.
+ Rather than using the traditional way, in which the team that scores more points wins, the MCAA decided that these rules were more sporting:
+If the first letters of the team names are different, whichever team name comes first alphabetically wins.
+If the first letters are the same, whichever name is longer wins.
+ 
+Your program should take in two team names, and output the winning team.
+ 
+Example:
+Input: Johnsonville, Bobbyston
+Output: Bobbyston
+Explanation: Bobbyston comes first alphabetically
+ 
+Input: Iowa Hawkeyes, Indiana
+Output: Iowa Hawkeyes
+Explanation: Iowa Hawkeyes is longer
+ 
+ 
+ 
+ 
+ 
+Division 2 (Non-AP)
+PROBLEM . 4. Unambiguous Dates
+ 
+Dates are tricky. Is 06/03/16 March 16, 2006? Or June 3, 2016? Or March 6, 2016? You can see the problem .. 
+Your program will be given three numbers in increasing order and it needs to say if they could represent a specific date, or if it could be multiple dates.
+ 
+Examples:
+Input: 7 15 32
+Output: Unambiguous
+Explanation: 32 can only be a year. With year taken, 15 can only be a day, leaving only 7 for the month.
+ 
+Input: 7 15 31
+Output: Ambiguous
+Explanation: 31 could be a year or a day, and 15 could be a year or a day.
+ 
+Input: 7 12 32
+Output: Ambiguous
+Explanation: 12 could be a month or a day, and 7 could be a month or a day.
+ 
+ 
+
+ 
+ 
+Division 2 (Non-AP)
+PROBLEM . 5. Fizz Buzz Woof
+ 
+Your program should take a number N as input. It should then output the numbers from 1 up to N, inclusive. 
+However, if a number is divisible by 3, it should instead output Fizz; if it is divisible by 5 it should output Buzz; 
+and if it is divisible by 7, it should output Woof. If a number is divisible by 3 and 5; 3 and 7; 5 and 7; or 3, 5, and 7; it should output all relevant words,
+in the order of the problem . title.
+ 
+As a reminder, many languages support a modulus operator (Mod in Visual Basic, % in Python, Java, and most others) 
+that tell you the remainder from dividing two numbers. Example: 12 % 5 = 12 Mod 5 = 2.
+ 
+Examples:
+Input: 8
+Output:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+Woof
+8
+ 
+Input: 15
+Output:
+1
+2
+Fizz
+4
+Buzz
+Fizz
+Woof
+8
+Fizz
+Buzz
+11
+Fizz
+13
+Woof
+FizzBuzz
